@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-👩‍💻 I’m currently working on<br>Improving my coding skills and building projects<br><br>👯 I’m looking to collaborate on<br>Open-source projects, web apps, and beginner-friendly development projects where I can learn and contribute.<br><br>🤝 I’m looking for help with<br>Data Science concepts and DSA<br><br>🌱 I’m currently learning<br>Backend development, and building scalable applications.<br><br>💬 Ask me about<br>Basics of programming, oops and getting started with coding.<br><br>⚡ Fun fact<br>I love turning ideas into real projects and continuously learning new tech — one commit at a time 🚀<br>
+👩‍💻 I’m currently working on<br>Improving my coding skills and building projects<br><br>👯 I’m looking to collaborate on<br>Open-source projects, web apps, and beginner-friendly development projects where I can learn and contribute.<br><br>🤝 I’m looking for help with<br>Data Science concepts and DSA<br><br>🌱 I’m currently learning<br>Data science, and building scalable applications.<br><br>💬 Ask me about<br>Basics of programming, oops and getting started with coding.<br><br>⚡ Fun fact<br>I love turning ideas into real projects and continuously learning new tech — one commit at a time 🚀<br>
 
 
 ## 🌐 Socials:
